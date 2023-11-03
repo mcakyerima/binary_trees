@@ -8,8 +8,7 @@
 #include <stdlib.h>
 
 /**
- * binary_tree_levelorder - Traverses a binary tree using level-order
- * traversal.
+ * binary_tree_levelorder - Traverses a binary tree using level-order traversal.
  * @tree: A pointer to the root node of the binary tree.
  * @func: A function to call for each node visited.
  *
