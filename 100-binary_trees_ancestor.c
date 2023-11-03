@@ -1,5 +1,5 @@
 /*
- * File: 100-binary_trees_ancestor.c
+ * File: 101-binary_trees_ancestor.c
  * Author: Mohammed Ak Yerima
  * Description: Finds the lowest common ancestor of two nodes in a binary tree.
  */
